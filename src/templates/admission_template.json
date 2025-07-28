@@ -1,0 +1,10 @@
+{
+  "name": "admission_template",
+  "language": "en",
+  "components": [
+    {
+      "type": "BODY",
+      "text": "Dear {{1}}, we have exciting news! Your application to {{2}} has been {{3}}. Please click here to view details: {{4}}"
+    }
+  ]
+}
