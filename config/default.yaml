@@ -1,0 +1,8 @@
+bsp:
+  api_url: ${BSP_API_URL}
+  api_key: ${BSP_API_KEY}
+  webhook_secret: ${BSP_WEBHOOK_SECRET}
+database:
+  url: ${DATABASE_URL}
+logging:
+  level: INFO
